@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "954674706404",
+    "firebase_url": "https://ontap-6e89c.firebaseio.com",
+    "project_id": "ontap-6e89c",
+    "storage_bucket": "ontap-6e89c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954674706404:android:d2907dc35d5c97438c39f1",
+        "android_client_info": {
+          "package_name": "com.example.ontap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954674706404-brk5pjfvqtudqo5fv340j9f9gcjg7398.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAblfHgwL_CskTwKY_qiXADfyCLFAXijOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954674706404-brk5pjfvqtudqo5fv340j9f9gcjg7398.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

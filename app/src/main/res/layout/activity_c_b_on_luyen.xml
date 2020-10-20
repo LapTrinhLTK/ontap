@@ -10,6 +10,21 @@
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:textSize="40sp"
+        android:textAppearance="bold"
+        android:textAllCaps="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        />
+
+    <Button
+        android:id="@+id/return3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="<"
+        android:textSize="25sp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+
         />
 
 
